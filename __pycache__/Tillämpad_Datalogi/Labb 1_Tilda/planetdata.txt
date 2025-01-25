@@ -1,0 +1,4 @@
+Jupiter/ 181/ 12.0
+Saturnus/ 160/ 18.0
+Jorden/ 380/ 655
+Solen/ 150000/ 8760
